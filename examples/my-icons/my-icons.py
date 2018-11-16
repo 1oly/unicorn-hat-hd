@@ -61,7 +61,7 @@ icon_extension = '.png'
 
 width, height = unicorn.get_shape()
 
-cycle_time = 0.25
+cycle_time = 5
 
 
 def help():
